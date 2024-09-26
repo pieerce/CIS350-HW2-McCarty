@@ -3,6 +3,7 @@
 ## My Interests
 * Music Production
 * Playing video games
+* Being with my cat
 
 ### Technical Background
 * Third year in Cybersecurity Major
